@@ -1,0 +1,7 @@
+Washington House Sales Dashboard
+==================================
+* Daily Average Sales Price
+* Price by location
+* Distribution of House price, Bathrooms & Bedrooms
+* View Vs Condition
+* Some Essential Filters
