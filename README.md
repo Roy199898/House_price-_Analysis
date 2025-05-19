@@ -75,5 +75,6 @@ Add mortgage rate and economic indicator data for deeper context.
 
 Incorporate sentiment analysis from property listings or reviews.
 
-![Dashboard Preview](Price Analysis Dashboard_pic.png)
+![Dashboard Preview](Price_Analysis_Dashboard_pic.png)
+
 
